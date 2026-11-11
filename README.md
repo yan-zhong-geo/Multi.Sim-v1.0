@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/multisim-logo-dark.png">
-    <img src="assets/Multi.Sim Logo.png" alt="Multi.Sim logo" width="800">
+    <img src="assets/Multi.Sim Logo.png" alt="Multi.Sim logo" width="600">
   </picture>
 </p>
 
