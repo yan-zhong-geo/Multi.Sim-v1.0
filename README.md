@@ -4,7 +4,7 @@
 
 **Developer:** [Yan Zhong](https://sites.google.com/view/yanzhong-geo)  
 **Affiliation:** [Climate Change Impacts and Risks in the Anthropocene (C-CIA), University of Geneva](https://c-cia.ch/)  
-**Contact:** yan.zhong@unige.ch  
+**Contact:** yan.zhong@unige.ch; yan.zhong.geo@gmail.com  
 **Platform:** ArcGIS Pro Python toolbox (`.atbx`)  
 **Toolbox:** `Multi.Sim_v1.0.atbx`
 
