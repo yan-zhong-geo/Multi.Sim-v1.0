@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/multisim-logo-dark.png">
+    <img src="assets/Multi.Sim Logo.png" alt="Multi.Sim logo" width="400">
+  </picture>
+</p>
+
 # Multi.Sim v1.0
 
 **A GIS toolbox for regional runout screening and exposure assessment**
