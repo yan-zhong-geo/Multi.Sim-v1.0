@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/multisim-logo-dark.png">
     <img src="assets/Multi.Sim Logo.png" alt="Multi.Sim logo" width="500">
