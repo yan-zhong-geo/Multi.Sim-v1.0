@@ -294,11 +294,7 @@ Please cite the accompanying paper when using Multi.Sim:
 
 > Zhong, Y., Allen, S., Steiner, J., Kincey, M., Rosser, N., Munch, J., Adhikari, B. R., Pandey, V. P., & Stoffel, M. (2026). *Multi.Sim v1.0: A Multi-Hazard Simulation Framework for Runout Modeling and Exposure Assessment in High Mountain Regions.*
 
-## 12. License and contact
+## 12. License
 
 See [`LICENSE`](LICENSE) for the terms of use.
 
-For questions, feedback, or collaboration:
-
-- Yan Zhong — <yan.zhong@unige.ch>
-- [University of Geneva — C-CIA](https://c-cia.ch/)
