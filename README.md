@@ -31,6 +31,12 @@ Multi.Sim is intended for **first-pass regional screening**: identifying potenti
 
 > **HI and EI are relative indices.** They do not represent flow depth, velocity, discharge, impact pressure, probability, or risk. A high value indicates a relatively high position within the modelled index surface, not a quantified physical impact.
 
+<p align="left">
+  <img src="assets/visual_validation.png" alt="Visual validation of Multi.Sim v1.0 at eight sites in the Dudh Koshi basin" width="700">
+  <br>
+  <sub><b>Figure.</b> Visual validation of Multi.Sim v1.0 at eight sites in the Dudh Koshi basin: rock-ice avalanche (a), glacial lake outburst flood (b–f) and landslide (g–h). Panels labelled 1 show Planet imagery (about 3 m), and panels labelled 2 show the same area with the simulated hazard index (HI) from high (red) to low (green). Adapted from Zhong et al. (2026), Fig. 10.</sub>
+</p>
+
 ## 2. Toolbox contents and which tool to use
 
 The current toolbox contains **two tools**:
@@ -270,6 +276,12 @@ Defaults are 22 pixels for RIA and 4 pixels for LS. These thresholds were develo
 ### 8.4 Raster resolution and alignment
 
 The default pixel-based settings were developed around a 30 m DEM. Finer or coarser grids change the physical meaning of a pixel-based BFS width and minimum patch size. Keep the DEM and source masks aligned, and review the resampled source masks after processing. Do not assume that changing the cell size leaves the model behaviour unchanged.
+
+<p align="left">
+  <img src="assets/sensitivity_paths.png" alt="Simulated hazard paths for different BFS and tan α values in the Dudh Koshi basin" width="700">
+  <br>
+  <sub><b>Figure.</b> Simulated hazard paths in the Dudh Koshi basin, shaded by hazard index (HI) from high (red) to low (green). Panels (a–d) show a RIA cascade and (e–h) a GLOF source element, each simulated with <i>N</i><sub>BFS</sub> = 1, 2, 3 and 4. Panels (i–l) show a landslide source element simulated with tan α = 0.30, 0.25, 0.19 and 0.14, and panels (m–p) show the same element simulated with <i>N</i><sub>BFS</sub> = 1, 2, 3 and 4. The landslide element is used for the tan α comparison because its runout fits a single panel at legible scale, whereas the RIA and GLOF paths extend tens of kilometres down-valley. HI is normalised independently for each simulation, so colour indicates relative position along a path and is not comparable between panels. Adapted from Zhong et al. (2026), Fig. 12.</sub>
+</p>
 
 ## 9. Quality checks and common pitfalls
 
